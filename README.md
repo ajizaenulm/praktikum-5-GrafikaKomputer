@@ -6,8 +6,8 @@
 
 ## 1. Identitas Mahasiswa
 
-- **Nama:** [Nama Mahasiswa]
-- **NRP:** [NRP Mahasiswa]
+- **Nama:** Aji Zaenul Musthofa
+- **NRP:** 5020241065
 - **Mata Kuliah:** EF234504 — Grafika Komputer
 - **Pertemuan:** 5 (Lighting, Shading & Texture pada WebGL)
 - **Dosen Pengampu:** Dr. Darlis Herumurti
